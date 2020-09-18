@@ -9,7 +9,7 @@ jobs:
       - persist_to_workspace:
           root: dist
           paths:
-            - sqs*
+            - dynamic*
   upload:
     docker:
       - image: circleci/python:3.7
