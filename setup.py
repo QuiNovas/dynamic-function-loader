@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name="dynamic-function-loader",
-    version="0.0.1",
+    version="0.0.2",
     description="Dynamically loads a function from code represented as a string.",
     author="Joseph Wortmann",
     author_email="jwortmann@quinovas.com",
